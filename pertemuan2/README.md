@@ -10,6 +10,12 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Menghitung saldo akhir.
 
 ## Entitas dan Atribut
+## Masjid
+- Nama
+- Alamat
+- Kode wilayah
+- Titik koordinat
+
 ### DKM
 - ID
 - NIK
