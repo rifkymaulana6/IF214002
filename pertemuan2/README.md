@@ -1,5 +1,7 @@
 # Ide Solusi: Catatan Keuangan Masjid
 
+<img width="960" alt="Screenshot 2022-03-11 125004" src="https://user-images.githubusercontent.com/81552476/157810266-bab59459-1970-44f5-ae57-d3a3c298ce1a.png">
+
 ## Deskripsi
 Aplikasi ini dibuat untuk membantu para pengurus DKM Masjid dalam mendata keuangan Masjid agar terhindar dari fitnah.
 Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
