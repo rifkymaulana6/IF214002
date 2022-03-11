@@ -12,7 +12,7 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Menghitung saldo akhir.
 
 ## Entitas dan Atribut
-## Masjid
+### Masjid
 - Nama
 - Alamat
 - Kode wilayah
