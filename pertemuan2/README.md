@@ -26,7 +26,7 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Kontak
 - Jabatan
 
-### Kotak Amal
+### Penarikan Isi Kotak Amal
 - ID
 - ID DKM
 - Periode/Waktu
@@ -41,20 +41,19 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Jumlah donasi
 - ID DKM
 
-## Program Kerja
+### Penghasilan lainnya
 - ID
 - ID DKM
-- Jenis
+- Keterangan
 - Tanggal
 - Hasil
 
-### Belanja
+### Pengeluaran
 - ID
 - ID DKM
-- Nama Barang/Jasa
-- Harga
+- Keterangan
+- Jumlah dana keluar
 - Tanggal
-- Jumlah
 
 ### Pendapatan
 - ID
