@@ -7,6 +7,7 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Mencatat pemasukan dari Donatur/orang yang ingin berinfaq.
 - Mencatat pemasukan dari program kerja DKM.
 - Mencatat pengeluaran untuk belanja kebutuhan masjid.
+- Menghitung saldo akhir.
 
 ## Entitas dan Atribut
 ### DKM
