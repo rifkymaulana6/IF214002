@@ -13,32 +13,32 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 ### Masjid
 - Nama
 - Alamat
-- Kode wilayah
-- Titik koordinat
-- Rekening masjid
+- * Kode wilayah
+- * Titik koordinat
+- * Rekening masjid
 
 ### DKM
-- ID
+- * ID
 - Nama
 - Alamat
-- Kontak
+- * Kontak
 - Jabatan
 
 ### Penarikan Isi Kotak Amal
-- No penarikan
+- * No penarikan
 - ID DKM
-- Periode/Waktu
+- * Periode/Waktu
 - Isi
 
 ### Donatur
 - Nama
 - Alamat
-- Kontak
+- * Kontak
 - Tanggal donasi
 - Jumlah donasi
 
 ### Penerimaan Infaq/Donasi
-- Tanggal
+- * Tanggal
 - Jumlah
 - Donatur
 - ID DKM
@@ -47,10 +47,11 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - ID DKM
 - Keterangan
 - Jumlah dana keluar
-- Tanggal
+- * Tanggal
+- * Nota
 
 ### Saldo Akhir (Selisih)
-- Periode/Waktu
+- * Periode/Waktu
 - Penarikan isi kotak amal
 - Penerimaan Donasi
 - Jumlah pendapatan
