@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T05:32:56.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="_Kyi8WgZKzXOV4ysQfT6" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T05:34:13.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="6RDPZmFmJ4apdY8W1LAl" version="17.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1117" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLx2cS38MoNF81snH_oE-29" value="Donatur" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#D6D6D6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="600" width="250" height="150" as="geometry" />
+          <mxGeometry x="810" y="600" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pLx2cS38MoNF81snH_oE-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="pLx2cS38MoNF81snH_oE-29">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -306,6 +306,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLx2cS38MoNF81snH_oE-41" value="alamat CHAR(240)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0" vertex="1" parent="pLx2cS38MoNF81snH_oE-39">
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pLx2cS38MoNF81snH_oE-43" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="pLx2cS38MoNF81snH_oE-29">
+          <mxGeometry y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pLx2cS38MoNF81snH_oE-44" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="pLx2cS38MoNF81snH_oE-43">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pLx2cS38MoNF81snH_oE-45" value="keterangan CHAR(240)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0" vertex="1" parent="pLx2cS38MoNF81snH_oE-43">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
