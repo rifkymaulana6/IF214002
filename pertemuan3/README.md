@@ -54,7 +54,7 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - Saldo
 
 ## Relationship
-Masjid 1 1 - 1 N DKM
-DKM 1 1 - 0 N Penarikan kotak amal
-DKM 1 1 - 0 N Penerimaan Infaq/Donasi
-DKM 1 1 - 0 N Pengeluaran
+- Masjid 1 1 - 1 N DKM
+- DKM 1 1 - 0 N Penarikan kotak amal
+- DKM 1 1 - 0 N Penerimaan Infaq/Donasi
+- DKM 1 1 - 0 N Pengeluaran
