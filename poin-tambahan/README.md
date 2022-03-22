@@ -25,7 +25,7 @@
 - Data Analytics in Business- Vanessa Geraldine
 - 22 Maret 2022
 
-
+![screenshot](https://user-images.githubusercontent.com/81552476/159594678-a3e32939-1596-429a-a25f-dbef02ac2436.png)
 
 ### Pointer
 - Data adalah numbers, characters, images yang bisa menjadi informasi.
