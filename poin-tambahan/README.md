@@ -1,8 +1,10 @@
-# Event: RevoU Mini Course - Data Analytics
+# 1. Event: RevoU Mini Course - Data Analytics
 ## Day 1
 ### Detail Kegiatan
 - Open House & Meet RevoU Co-founder by Razi Thalib, Co-founder of RevoU & Vanessa Geraldine, Special Project Manager Data Analytics at RevoU
 - Senin, 21 Maret 2022
+
+![screenshot](https://user-images.githubusercontent.com/81552476/159467857-09582b96-297c-4eb2-a925-1653324f8e27.png)
 
 ### Pointer
 - Pengenalan Mini Course RevoU
