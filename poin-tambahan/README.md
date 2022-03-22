@@ -19,3 +19,50 @@
 	+ Data science lebih fokus di machine learning
 - Career Path in DA: no limits!
 - Top 4 skills yg harus dipunyai: SQL, Excel, Tableau, Phyton
+
+## Day 2
+### Detail Kegiatan
+- Data Analytics in Business- Vanessa Geraldine
+- 22 Maret 2022
+
+
+
+### Pointer
+- Data adalah numbers, characters, images yang bisa menjadi informasi.
+- Data analytics adalah cara untuk mengekstraksi value dari data.
+- Data analytics dipakai untuk membuat sebuah keputusan yang baik dalam bisnis.
+- V's of big data (ciri-ciri):
+	+ Volume - besar data
+	+ Velocity - kecepatan data berubah
+	+ Variety - variasi data
+	+ Variability
+	+ Veracity - kualitas data
+- Big Data value chain : Big data - Data Management Storage - Engine - Prepare for analytics - Analytics - Insight
+- Types of Analytics:
+	+ Descriptive : apa yang terjadi di "past" (contoh: report company)
+	+ Diagnostic : mengidentifikasi kenapa sesuatu terjadi di "past"
+	+ Predictive : memprediksi apa yang akan terjadi di "future" (contoh: rekomendasi di e-commerce)
+	+ Prescriptive : solusi untuk prediksi (tugas Machine Learning)
+- Database = repository = kumpulan data
+- Data analytics cycle:
+	+ Discovery
+	+ Data preparation - ELT(Extract, Load, Transform)
+	+ Model planning
+	+ Model Building
+	+ Communicate results
+	+ Operationalize - Deliver technical documents
+- Data analytics process:
+	+ Bussines Question
+	+ Get Data
+	+ Explore data
+	+ Prepare data
+	+ Analyze data
+	+ Present findings
+- Good problem statement
+	+ harus spesifik agar bisa di selesaikan
+	+ jangkauan tidak terlalu luas
+	+ memiliki multiple solution
+- Types of Data
+	+ structured data - quantitative
+	+ unstructured data - qualitative
+	+ semi structured data
