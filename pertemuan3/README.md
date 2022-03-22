@@ -30,12 +30,17 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 - \* Periode/Waktu
 - Isi
 
-### Penerimaan Infaq/Donasi
-- Nama Donatur
-- \* Kontak donatur
+### Infaq
 - \* Tanggal
 - Jumlah
 - ID DKM
+- keterangan
+
+### Donatur
+- ID
+- Nama
+- Kontak
+- Alamat
 
 ### Pengeluaran
 - ID DKM
@@ -56,5 +61,6 @@ Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
 ## Relationship
 - Masjid 1 1 - 1 N DKM
 - DKM 1 1 - 0 N Penarikan kotak amal
-- DKM 1 1 - 0 N Penerimaan Infaq/Donasi
+- DKM 1 1 - 0 N Infaq
+- Infaq 1 N - 1 1 Donatur
 - DKM 1 1 - 0 N Pengeluaran
