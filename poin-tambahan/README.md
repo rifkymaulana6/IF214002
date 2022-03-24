@@ -95,3 +95,25 @@
 	+ ORDER BY
 - Bigquery: project-dataset-tabel
 - Praktikum Google Bigquery
+
+## Day 4
+### Detail Kegiatan
+- CAREER SESSION: How to Prepare Your Data Analytics Career bersama Team RevoU Next
+- 24 Maret 2002
+
+![screenshot](https://user-images.githubusercontent.com/81552476/160023709-2b803374-151f-4cc4-8355-5f1810beba14.png)
+
+### Pointer
+- Analisis pertumbuhan big data : + Explotion of Data
+- Cara memiliki skill yang relevan dengan trend
+- Common admission process:
+	+ application & HR interview
+	+ Technical case study
+	+ user technical interview
+	+ management panel interview
+- Beberapa karir yg bisa diambil setelah mempelajari data analis:
+	+ Data Leader
+	+ Specialised
+	+ DS/AI/ML
+	+ Business leader
+	+ Entrepreneur
