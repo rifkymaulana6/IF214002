@@ -66,3 +66,32 @@
 	+ structured data - quantitative
 	+ unstructured data - qualitative
 	+ semi structured data
+
+## Day 3
+### Detail kegiatan
+- Practical Simulation: Basic SQL with Team Lead: Tiara Calista Shandy, Data Analyst at ASTRO Indonesia
+- 23 Maret 2022
+
+![screenshot](https://user-images.githubusercontent.com/81552476/159816531-71fa59ba-b7d3-4745-8e49-23839b0627cb.png)
+
+![praktikum Google Bigquery](https://user-images.githubusercontent.com/81552476/159816739-7bc90d28-e772-44ed-a58f-ff28ce3ba9eb.png)
+
+### Pointer
+- DBMS - sebuah software untuk menyimpan dan memanage data di database.
+- Format DBMS harus berupa tabel.
+- RDBMS - versi lebih advance dari DBMS yaitu bisa membuat Relation antar database.
+- ERD - sebuah representasi dari hubungan antara tabel.
+- SQL - bahasa pemrograman yang dipakai untuk berkomunikasi dengan sebuah RDBMS.
+- SQL data type :
+	+ Integer
+	+ Float
+	+ Strings
+	+ Dates
+	+ Boolean
+- SQL Basic clause:
+	+ SELECT
+	+ FROM
+	+ WHERE
+	+ ORDER BY
+- Bigquery: project-dataset-tabel
+- Praktikum Google Bigquery
