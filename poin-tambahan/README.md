@@ -117,3 +117,34 @@
 	+ DS/AI/ML
 	+ Business leader
 	+ Entrepreneur
+
+## Day 5
+### Detail Kegiatan
+- Practical Simulation: Basic Python bersama Team Lead: Tiara Calista Shandy, Data Analyst at ASTRO Indonesia
+- 25 Maret 2002
+
+![Screenshot](https://user-images.githubusercontent.com/81552476/160215376-ce7250e3-f83c-4ece-86f7-588a3ae23fac.png)
+
+![Screenshot](https://user-images.githubusercontent.com/81552476/160215436-ee5135d7-2227-43b7-b12a-54a806a04ca3.png)
+
+### Pointer
+- Data cleaning adalah proses untuk membenahi/memperbaiki/melengkapi/membersihkan data yang kita punya.
+- Data cleaning dapat berlangsung beberapa kali.
+- Data cleaning = memodifikasi data-data yang tidak harus ada di data set.
+- Data transformation = merubah bentuk data. - warehousing
+- Step data cleaning :
+	+ Pilih data yg relevan
+	+ Remove duplicated data
+	+ Memperbaiki error, typo
+	+ Filter unwanted outliers
+	+ Handle missing data
+	+ validasi dan sanity check
+- Bagaimana agar tidak merusak data saat cleaning:
+	+ Jangan melakukan cleaning langsung di datanya.
+	+ spot check
+	+ check for weird values
+	+ check your column types
+	+ Dry run/test sebelum mengubah apapun
+	+ clear is better than clever
+	+ validasi dan sanity check
+	+ catat apa aja yng udah dilakuin
