@@ -3,11 +3,12 @@
 ## Deskripsi
 Aplikasi ini dibuat untuk membantu para pengurus DKM Masjid dalam mendata keuangan Masjid agar terhindar dari fitnah.
 Aplikasi ini memiliki fitur-fitur utama sebagai berikut:
-- Mencatat pemasukan dari kotak amal mingguan.
-- Mencatat pemasukan dari Donatur/orang yang ingin berinfaq.
-- Mencatat pemasukan dari program kerja DKM.
-- Mencatat pengeluaran untuk belanja kebutuhan masjid.
+- DKM mencatat pemasukan dari kotak amal mingguan.
+- DKM mencatat pemasukan dari Donatur/orang yang ingin berinfaq.
+- DKM mencatat pengeluaran untuk belanja kebutuhan masjid.
 - Menghitung saldo akhir.
+
+![ERD drawio](https://user-images.githubusercontent.com/81552476/160031934-455f3096-15b9-4b6a-abb9-30edf94c7e1f.png)
 
 ## Entitas dan Atribut
 ### Masjid
