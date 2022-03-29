@@ -160,3 +160,17 @@
 ### pointer
 - Sosialisasi HappyFresh
 - Saring session dengan alumni RevoU
+
+## Day 7
+### Detail kegiatan
+- Demo Session dalam bentuk Elevator Pitch Competition bersama Cynthia Novella, Account Manager at Gojek & Career Coach RevoU
+- 29 Maret 2022
+
+![screenshot](https://user-images.githubusercontent.com/81552476/160724913-9c76794e-0d5c-402d-8988-ff86a012603f.png)
+
+### pointer
+- 3C in Elevator pitch:
+	+ Compact: How long? (30-90 detik)
+	+ Connection: what to do?
+	+ Content: what to say?
+- Know your audience
