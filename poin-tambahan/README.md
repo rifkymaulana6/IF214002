@@ -148,3 +148,15 @@
 	+ clear is better than clever
 	+ validasi dan sanity check
 	+ catat apa aja yng udah dilakuin
+
+
+## Day 6
+### Detail kegiatan
+- Sesi Special Event with Hiring Partner: HappyFresh, Bring Analytics Down to Earth
+- 28 Maret 2022
+
+![screenshot](https://user-images.githubusercontent.com/81552476/160523030-3643c215-f377-4164-9b27-3e422899e469.png)
+
+### pointer
+- Sosialisasi HappyFresh
+- Saring session dengan alumni RevoU
