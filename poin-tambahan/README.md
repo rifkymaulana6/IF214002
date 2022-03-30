@@ -181,6 +181,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/81552476/160836934-f98151bc-bd99-44fd-b9c1-183b00db2a23.png)
 
+![screenshot](https://user-images.githubusercontent.com/81552476/160838435-7ee2cd74-017b-4565-9368-dcb18badef3c.png)
 
 ## Pointer
 - Penggunaan data dalam kehidupan sehari-hari oleh karena itu data menjadi sangat penting
