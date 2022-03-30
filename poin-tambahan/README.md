@@ -174,3 +174,39 @@
 	+ Connection: what to do?
 	+ Content: what to say?
 - Know your audience
+
+# 2. Event : JENDELA DATA : The Role of Data Scientists at Tokopedia
+## Detail Kegiatan
+- 30 Maret 2022
+
+![screenshot](https://user-images.githubusercontent.com/81552476/160836934-f98151bc-bd99-44fd-b9c1-183b00db2a23.png)
+
+![screenshot](https://user-images.githubusercontent.com/81552476/160838435-7ee2cd74-017b-4565-9368-dcb18badef3c.png)
+
+## Pointer
+- Penggunaan data dalam kehidupan sehari-hari oleh karena itu data menjadi sangat penting
+- Karakteristik Big data:
+	+ volume
+	+ velocity
+	+ variety
+	+ veracity
+	+ value
+- Proses: Data -> Sorted -> Arranged -> Explained with a story -> Actionable(useful)
+- Data science adalah kombinasi dari 3 skil (Computer science/IT, Domains/Business Knowladge, Math and statistics)
+- Output data science secara umum : Reports, Presentasion,
+- Data science di e-commerce
+	+ Product recomendation
+	+ Costumer lifetime value
+- Data science tech stack at Tokopedia: Python, SQL, GCP
+- Common python Libraries untuk Data Science:
+	+ Data processing: pandas, NumPy
+	+ Data Visualization: Matplotlib, seaborn
+	+ ML: Scikit Learn, LightGBM
+	+ DL: TensorFlow, PyTorch
+- Data yang dipakai di Tokped: 
+	+ Tabular, aplikasi: demand forecasting
+	+ Text, aplikasi: Product cataloging
+	+ image, aplikasi: Illegal Product/Image Detection
+- Tantangan sebagai data scientist:
+	+ Kualitas data
+	+ Skalabilitas
