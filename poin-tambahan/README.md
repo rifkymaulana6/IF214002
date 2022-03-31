@@ -175,6 +175,14 @@
 	+ Content: what to say?
 - Know your audience
 
+## Day 8
+### Detail Kegiatan
+- Alumni Sharing Session bersama Team Lead: Tiara Calista Shandy, Data Analyst at ASTRO Indonesia
+- 30 Maret 2022
+
+![Screenshot 2022-03-30 190603](https://user-images.githubusercontent.com/81552476/161040222-00c85f74-b031-4fd6-9cc1-89321d65d622.png)
+
+
 # 2. Event : JENDELA DATA : The Role of Data Scientists at Tokopedia
 ## Detail Kegiatan
 - 30 Maret 2022
