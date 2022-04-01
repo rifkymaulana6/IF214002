@@ -1,4 +1,4 @@
-![ERD drawio](https://user-images.githubusercontent.com/81552476/161173081-aa4e8c0f-9f3d-4697-8a18-0cf8616f16c2.png)
+![ERD drawio (1)](https://user-images.githubusercontent.com/81552476/161177836-bc727447-cb44-4036-ad14-2d23972b1cde.png)
 
 # Ide Solusi: Catatan Keuangan Masjid
 
