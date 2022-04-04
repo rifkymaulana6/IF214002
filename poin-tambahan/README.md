@@ -1,4 +1,8 @@
 # 1. Event: RevoU Mini Course - Data Analytics
+
+![sertifikat Data Analyst RevoU](https://user-images.githubusercontent.com/81552476/161484299-3b783dd3-db32-4b00-bc84-3dc49eea6afb.png)
+
+
 ## Day 1
 ### Detail Kegiatan
 - Open House & Meet RevoU Co-founder by Razi Thalib, Co-founder of RevoU & Vanessa Geraldine, Special Project Manager Data Analytics at RevoU
@@ -181,6 +185,35 @@
 - 30 Maret 2022
 
 ![Screenshot 2022-03-30 190603](https://user-images.githubusercontent.com/81552476/161040222-00c85f74-b031-4fd6-9cc1-89321d65d622.png)
+
+## Day 9
+### Detail Kegiatan
+- Learning with RevoU: Communicating with Data bersama: Vanessa Geraldine, Strategic Projects  Senior Manager RevoU dan Business Analytics Manager ex-Gojek
+- 31 Maret 2002
+
+### Pointer
+- Data visualization - Representasi grafis dari sebuah data
+- Data visualization menjadi penting karena 80% orang lebih cepat menangkap jika melihat sesuatu/gambar
+- Pemilihan visualisasi data dibagi menjadi 4 : comparasion, distribution, composition, relationship
+- Beberapa jenis charts: bar charts, line charts, histogram, heat map, dll.
+- Penggunaan warna dalam data visualisasi
+	+ Sequential
+	+ Diverging
+	+ Categorical
+	+ Highlight
+	+ Alert
+- 4 pertanyaan kunci untuk mengkomunikasikan data
+	+ Harus tau data tsb mau nunjukin apa (story)
+	+ Tipe data
+	+ Tipe chart
+	+ Siapa audiensnya
+
+## Day 10
+### Detail Kegiatan
+- Q&A Case Study Explanation bersama: Tiara Calista Shandy, Data Analyst at Astro Indonesia
+- 1 april 2022
+
+![Screenshot 2022-04-01 191239](https://user-images.githubusercontent.com/81552476/161484189-357b23ef-0545-4511-a2b0-419d33e3e943.png)
 
 
 # 2. Event : JENDELA DATA : The Role of Data Scientists at Tokopedia
