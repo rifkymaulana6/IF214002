@@ -1,5 +1,6 @@
 # Normalisasi Basis Data
 
-![ERD drawio](https://user-images.githubusercontent.com/81552476/162354616-466fe8ec-a032-4933-90cb-3ab1af00a718.png)
+![ERD drawio (1)](https://user-images.githubusercontent.com/81552476/162355726-617f7b4b-e938-4a72-9368-de6593851d03.png)
+
 Memperbaiki beberapa tipe data, primary key, dan atribut.
 
