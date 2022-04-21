@@ -18,7 +18,8 @@ B. Fitur-fitur dari aplikasi ini:
 - Menghitung saldo akhir.
 
 C. ERD notasi chen
-![ERD drawio (2)](https://user-images.githubusercontent.com/81552476/164354625-3fc4b069-17a3-4d2b-8c41-a0403e954ca0.png)
+![ERD notasi chen](https://user-images.githubusercontent.com/81552476/164370800-f0f5fd5e-bb70-49fd-8863-96d932998bef.png)
+
 
 D. ERD notasi Crow Foot
-![ERD drawio (3)](https://user-images.githubusercontent.com/81552476/164354709-d96a0324-0ec2-4403-adc5-4b79c1d06d43.png)
+![ERD crow foot](https://user-images.githubusercontent.com/81552476/164354709-d96a0324-0ec2-4403-adc5-4b79c1d06d43.png)
