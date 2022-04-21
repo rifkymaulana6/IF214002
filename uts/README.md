@@ -25,4 +25,5 @@ D. ERD notasi Crow Foot
 ![ERD crow foot](https://user-images.githubusercontent.com/81552476/164354709-d96a0324-0ec2-4403-adc5-4b79c1d06d43.png)
 
 Flowchart Menu
+
 ![flowchart menu](https://user-images.githubusercontent.com/81552476/164372461-5db408dd-a59b-4a3d-a096-499ce096a121.png)
