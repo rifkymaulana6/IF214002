@@ -26,4 +26,5 @@ D. ERD notasi Crow Foot
 
 Flowchart Menu
 
-![flowchart menu](https://user-images.githubusercontent.com/81552476/164372461-5db408dd-a59b-4a3d-a096-499ce096a121.png)
+![flowchart menu](https://user-images.githubusercontent.com/81552476/164372653-684c97bf-72c1-4068-a016-8274bc4a63e2.png)
+
