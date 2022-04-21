@@ -1,6 +1,7 @@
 # Ide Solusi: Catatan Keuangan Masjid
 
-![ERD drawio](https://user-images.githubusercontent.com/81552476/157842794-48b08705-4f85-4bc1-8c1d-7bd6573edbe3.png)
+![ERD drawio (4)](https://user-images.githubusercontent.com/81552476/164370925-76f9ea66-cf4c-42c3-ae69-0fe68204bb83.png)
+
 
 ## Deskripsi
 Aplikasi ini dibuat untuk membantu para pengurus DKM Masjid dalam mendata keuangan Masjid agar terhindar dari fitnah.
