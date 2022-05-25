@@ -40,7 +40,7 @@ INSERT INTO pengeluaran (id_dkm, tanggal, jml_pengeluaran, bukti, keterangan) VA
 1. Menampilkan total pengeluaran perbulan
 ```sql
 SELECT
-	MONTHNAME(tanggal) AS bulan,
+    MONTHNAME(tanggal) AS bulan,
     CONCAT("Rp. ", FORMAT(SUM(jml_pengeluaran), 0, "id_ID")) as total_pengeluaran
 FROM pengeluaran
 GROUP BY DATE_FORMAT(tanggal, '%m')
