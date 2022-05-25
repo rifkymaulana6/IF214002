@@ -5,6 +5,7 @@
 Saya lupa men-copy code nya jadi saya export saja dalam bentuk [sql schema](https://github.com/rifkymaulana6/IF214002/blob/main/pertemuan11/catatan-keuangan-masjid.sql).
 
 ## DML
+Berikut [contoh data](https://github.com/rifkymaulana6/IF214002/blob/main/pertemuan11/contoh-data.sql) yang saya buat.
 ```sql
 INSERT INTO masjid VALUES ('22Q8+552', 'As-Syuhada', 45375, 'Kec. Cibugel, Kabupaten Sumedang, Jawa Barat 45375');
 
